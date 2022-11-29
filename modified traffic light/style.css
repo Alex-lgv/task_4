@@ -1,9 +1,9 @@
 .trafficLight {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   background: black;
-  margin-left: 470px;
+  margin-left: 800px;
 }
 
 body {
