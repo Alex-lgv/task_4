@@ -1,0 +1,10 @@
+.one {
+  background-color: lightgreen;
+  font-style: italic;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.two {
+  margin-top: 15px;
+}
